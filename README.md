@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **website, app**
 
-- 🤝 I’m looking for help with **React Native, Next js, AWS**
+- 🤝 I’m looking for help with **React Native, Next js, Firebase, AWS Amplify**
 
 - 💬 Ask me about **Anything**
 
